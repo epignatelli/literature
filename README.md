@@ -1,6 +1,6 @@
 ### Get started
 ---
-This document contains a list of references to converence proceedings, journal articles, books and websites that are, or have been, relevant to my myself.
+This document contains a list of references to conference proceedings, journal articles, books and websites that are, or have been, relevant to my myself.
 
 ### Standards
 ---

@@ -11,7 +11,7 @@ B. Documents are sorted by year of publication in a decreasing order. When a yea
 # 
 
 #### 2019
-- 
+- [Garnelo, Marta, and Murray Shanahan. "Reconciling deep learning with symbolic artificial intelligence: representing objects and relations." Current Opinion in Behavioral Sciences 29 (2019): 17-23.](https://spiral.imperial.ac.uk/bitstream/10044/1/67796/2/GarneloShanahanCurrOpBehSci2019.pdf)
 
 #### 2018
 - [Battaglia, Peter W., et al. "Relational inductive biases, deep learning, and graph networks." arXiv preprint arXiv:1806.01261 (2018).](https://arxiv.org/abs/1806.01261)

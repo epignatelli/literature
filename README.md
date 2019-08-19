@@ -2,7 +2,7 @@
 #
 This document contains a list of references to conference proceedings, journal articles, books and websites that are, or have been, relevant to my myself.
 
-### Standards
+### Document structure
 #
 A. When possible, documents are referenced in [Harvard style](https://www.imperial.ac.uk/admin-services/library/learning-support/reference-management/harvard-style/)  
 B. Documents are sorted by year of publication in a decreasing order. When a year has multiple items, documents are sorted alphabetically by the last name of the first author.  

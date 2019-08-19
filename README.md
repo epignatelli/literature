@@ -1,13 +1,14 @@
-### Get started
+#### Get started
 ---
 This document contains a list of references to conference proceedings, journal articles, books and websites that are, or have been, relevant to my myself.
 
-### Standards
+#### Standards
 ---
 A. When possible, documents are referenced in [Harvard style](https://www.imperial.ac.uk/admin-services/library/learning-support/reference-management/harvard-style/)
 B. Documents are sorted by year of publication. When a year has multiple items, documents are sorted alphabetically by the last name of the first author.
 
-### AI and ML literature
+#### AI and ML literature
+---
 
 #### 2019
 - 

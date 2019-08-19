@@ -22,6 +22,8 @@ B. Documents are sorted by year of publication in a decreasing order. When a yea
 #### 2017
 - [Lin, H.W., Tegmark, M. and Rolnick, D., 2017. Why does deep and cheap learning work so well?. Journal of Statistical Physics, 168(6), pp.1223-1247.](https://arxiv.org/abs/1608.08225)
 
+#### 2016
+- [Garnelo, Marta, Kai Arulkumaran, and Murray Shanahan. "Towards deep symbolic reinforcement learning." arXiv preprint arXiv:1609.05518 (2016).](https://arxiv.org/abs/1609.05518)
 
 #### 2001
 - [Džeroski, Sašo, Luc De Raedt, and Kurt Driessens. "Relational reinforcement learning." Machine learning 43.1-2 (2001): 7-52.](https://link.springer.com/article/10.1023/A:1007694015589)

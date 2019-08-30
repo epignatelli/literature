@@ -14,6 +14,7 @@ B. Documents are sorted by year of publication in a decreasing order. When a yea
 - [Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong. To be published by Cambridge University Press. Mathematics for Machine Learning](https://mml-book.github.io/)
 
 #### 2019
+- [Alet, F., Jeewajee, A.K., Villalonga, M.B., Rodriguez, A., Lozano-Perez, T. and Kaelbling, L., 2019, May. Graph Element Networks: adaptive, structured computation and memory. In International Conference on Machine Learning (pp. 212-222).](http://proceedings.mlr.press/v97/alet19a.html)
 - [Garnelo, Marta, and Murray Shanahan. "Reconciling deep learning with symbolic artificial intelligence: representing objects and relations." Current Opinion in Behavioral Sciences 29 (2019): 17-23.](https://spiral.imperial.ac.uk/bitstream/10044/1/67796/2/GarneloShanahanCurrOpBehSci2019.pdf)
 
 #### 2018
